@@ -14,6 +14,7 @@
 - **Languages:** Native Turkish speaker, B2 level in English, A1 in Japanese, and A1 in German.
 - **Interests:** Fascinated by software development, artificial intelligence, cybersecurity, and cryptography. Also enjoy reading and manga comics.
 
+🔗 [Website](https:/egemenerin.com)
 🔗 [LeetCode Profile](https://leetcode.com/EgemenEriin/)
 
 ⭐️ **Contact Me**
