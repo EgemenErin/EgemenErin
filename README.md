@@ -2,7 +2,7 @@
 
 ⭐️ **About Myself**
 
-- 🎓 Currently in the first year of university studying computer science.
+- 🎓 Currently in the second year of university studying computer science.
 - 💻 Passionate about tackling complex coding challenges and finding innovative solutions to tricky programming problems.
 - 📚 In my free time, I love reading about the latest advancements in technology, following tech blogs and forums, and diving into video games.
 - 🚀 Actively in search of an internship opportunity to expand my horizons and apply my skills.
