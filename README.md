@@ -1,4 +1,4 @@
-👋 Hello! I've been programming for close to a year now, and my dream is to become a data scientist. Dive into my GitHub bio to learn more about my journey and aspirations!
+👋 Hello! I've been programming for 3 years now, and my dream is to become a data scientist. Dive into my GitHub bio to learn more about my journey and aspirations!
 
 ⭐️ **About Myself**
 
