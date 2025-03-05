@@ -9,7 +9,7 @@
 
 ⭐️ **Skills and Interests**
 
-- **Technical Skills:** Proficient in C, C#, Java, Python, HTML, CSS, JavaScript, Shell scripting.
+- **Technical Skills:** Proficient in C, C#, Java, Python, HTML, CSS, JavaScript, Next.js, Tailwind CSS, TypeScript, PostgreSQL, MySQL, SQLite. Shell, Pygame, Pandas, Microsoft Applications, MacOS, Linux
 - **Soft Skills:** Strong in project management and problem-solving.
 - **Languages:** Native Turkish speaker, B2 level in English, A1 in Japanese, and A1 in German.
 - **Interests:** Fascinated by software development, artificial intelligence, cybersecurity, and cryptography. Also enjoy reading and manga comics.
