@@ -1,23 +1,13 @@
-👋 Hello! I've been programming for 3 years now, and my dream is to become a data scientist. Dive into my GitHub bio to learn more about my journey and aspirations!
+I’m a Software Engineer with a background in Computer Science, and I spend most of my time building things to see if they actually work.
 
-⭐️ **About Myself**
+Recently, that’s meant helping researchers use deep learning inside QGIS without needing ML expertise, and building Muscledia, a fitness app that uses game mechanics to make long-term consistency easier.
 
-- 🎓 Currently in the second year of university studying computer science.
-- 💻 Passionate about tackling complex coding challenges and finding innovative solutions to tricky programming problems.
-- 📚 In my free time, I love reading about the latest advancements in technology, following tech blogs and forums, and diving into video games.
-- 🚀 Actively in search of an internship opportunity to expand my horizons and apply my skills.
+I enjoy the part of engineering where I have to go down the documentation wormhole.. usually the most frustrating part, but almost always the most fun for me.
 
-⭐️ **Skills and Interests**
+I run Linux Mint, care a lot about security fundamentals (even if I don’t plan to specialize there), and try to use AI intentionally rather than by default, so my core programming skills stay sharp.
 
-- **Technical Skills:** Proficient in C, C#, Java, Python, HTML, CSS, JavaScript, Next.js, Tailwind CSS, TypeScript, PostgreSQL, MySQL, SQLite. Shell, Pygame, Pandas, Microsoft Applications, MacOS, Linux
-- **Soft Skills:** Strong in project management and problem-solving.
-- **Languages:** Native Turkish speaker, B2 level in English, A1 in Japanese, and A1 in German.
-- **Interests:** Fascinated by software development, artificial intelligence, cybersecurity, and cryptography. Also enjoy reading and manga comics.
 
-🔗 [Website](https:/egemenerin.com)
-🔗 [LeetCode Profile](https://leetcode.com/EgemenEriin/)
-
-⭐️ **Contact Me**
+If you would like to discuss job opportunities, or collaboration, feel free to contact me from:
 
 - 📧 Email: egemeneriin@icloud.com
 - 📞 Phone: +48 516112852
