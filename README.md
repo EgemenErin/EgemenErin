@@ -9,5 +9,5 @@ I run Linux Mint, care a lot about security fundamentals (even if I don’t plan
 
 If you would like to discuss job opportunities, or collaboration, feel free to contact me from:
 
-- 📧 Email: egemeneriin@icloud.com
+- 📧 Email: egemeneriin@protonmail.com
 - 📞 Phone: +48 516112852
