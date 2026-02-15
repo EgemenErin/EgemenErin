@@ -1,13 +1,11 @@
-I’m a Software Engineer with a background in Computer Science, and I spend most of my time building things to see if they actually work.
+I'm an aspiring Data Analyst with a background in Computer Science, and I enjoy turning messy data into something that actually makes sense.
 
-Recently, that’s meant helping researchers use deep learning inside QGIS without needing ML expertise, and building Muscledia, a fitness app that uses game mechanics to make long-term consistency easier.
+Recently, that's meant conducting geospatial analysis with QGIS and deep learning models to help researchers extract insights from satellite and aerial imagery, and building Muscledia, a fitness app where I used engagement metrics and user feedback to iteratively improve features and validate real outcomes (like a 40% increase in workout adherence).
 
-I enjoy the part of engineering where I have to go down the documentation wormhole.. usually the most frustrating part, but almost always the most fun for me.
+I enjoy the part of analysis where I have to go down the documentation wormhole — usually the most frustrating part, but almost always the most rewarding. Whether it's wrangling data with Python and Pandas, building dashboards in Power BI, or writing SQL to find patterns others missed, I like work that connects data to decisions.
 
-I run Linux Mint, care a lot about security fundamentals (even if I don’t plan to specialize there), and try to use AI intentionally rather than by default, so my core programming skills stay sharp.
+I run Linux Mint, care about reproducibility and clean workflows, and try to use AI intentionally rather than by default, so my core analytical skills stay sharp.
+If you'd like to discuss job opportunities or collaboration, feel free to reach out:
 
-
-If you would like to discuss job opportunities, or collaboration, feel free to contact me from:
-
-- 📧 Email: egemeneriin@protonmail.com
-- 📞 Phone: +48 516112852
+📧 Email: egemeneriin@protonmail.com
+📞 Phone: +48 516 112 852
