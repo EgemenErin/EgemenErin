@@ -1,4 +1,4 @@
-I'm an aspiring Data Analyst with a background in Computer Science, and I enjoy turning messy data into something that actually makes sense.
+I'm an Data Analyst with a background in Computer Science, and I enjoy turning messy data into something that actually makes sense.
 
 Recently, that's meant conducting geospatial analysis with QGIS and deep learning models to help researchers extract insights from satellite and aerial imagery, and building Muscledia, a fitness app where I used engagement metrics and user feedback to iteratively improve features and validate real outcomes (like a 40% increase in workout adherence).
 
